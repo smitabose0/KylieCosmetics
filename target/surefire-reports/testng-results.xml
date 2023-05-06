@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="38" passed="38" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-06T14:47:14 IST" name="All Test Suite" finished-at="2023-05-06T14:49:49 IST" duration-ms="154769">
+    <groups>
+    </groups>
+    <test started-at="2023-05-06T14:47:14 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/CompatibilityTest.java" finished-at="2023-05-06T14:47:22 IST" duration-ms="8647">
+      <class name="org.KylieCosmetics.CompatibilityTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:14 IST" name="environmentTest" finished-at="2023-05-06T14:47:22 IST" duration-ms="7883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:22 IST" name="setCookieConsent" finished-at="2023-05-06T14:47:22 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCookieConsent -->
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:22 IST" name="teardown" finished-at="2023-05-06T14:47:22 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.CompatibilityTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/CompatibilityTest.java -->
+    <test started-at="2023-05-06T14:47:22 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SecurityTest.java" finished-at="2023-05-06T14:47:32 IST" duration-ms="9216">
+      <class name="org.KylieCosmetics.SecurityTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:22 IST" name="environmentTest" finished-at="2023-05-06T14:47:31 IST" duration-ms="8966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:31 IST" name="setCookieConsent" finished-at="2023-05-06T14:47:32 IST" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCookieConsent -->
+        <test-method signature="testSSLCertificate()[pri:3, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:32 IST" name="testSSLCertificate" finished-at="2023-05-06T14:47:32 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSSLCertificate -->
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:32 IST" name="teardown" finished-at="2023-05-06T14:47:32 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.SecurityTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SecurityTest.java -->
+    <test started-at="2023-05-06T14:47:32 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/LoadTimeTest.java" finished-at="2023-05-06T14:47:42 IST" duration-ms="10373">
+      <class name="org.KylieCosmetics.LoadTimeTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:32 IST" name="environmentTest" finished-at="2023-05-06T14:47:39 IST" duration-ms="7642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="websiteLoadTime()[pri:2, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:39 IST" name="websiteLoadTime" finished-at="2023-05-06T14:47:42 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteLoadTime -->
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:42 IST" name="teardown" finished-at="2023-05-06T14:47:42 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.LoadTimeTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/LoadTimeTest.java -->
+    <test started-at="2023-05-06T14:47:42 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java" finished-at="2023-05-06T14:48:02 IST" duration-ms="19756">
+      <class name="org.KylieCosmetics.MobileResponsivenessTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:42 IST" name="setUp" finished-at="2023-05-06T14:47:52 IST" duration-ms="9504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:52 IST" name="CookieConsent" finished-at="2023-05-06T14:47:52 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookieConsent -->
+        <test-method signature="menuIcon()[pri:2, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:52 IST" name="menuIcon" finished-at="2023-05-06T14:47:54 IST" duration-ms="2162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuIcon -->
+        <test-method signature="setLogin()[pri:3, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:54 IST" name="setLogin" finished-at="2023-05-06T14:48:02 IST" duration-ms="7903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:48:02 IST" name="tearDown" finished-at="2023-05-06T14:48:02 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.KylieCosmetics.MobileResponsivenessTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java -->
+    <test started-at="2023-05-06T14:48:02 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java" finished-at="2023-05-06T14:48:09 IST" duration-ms="7362">
+      <class name="org.KylieCosmetics.VerifyHomePageTitle">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:02 IST" name="environmentTest" finished-at="2023-05-06T14:48:09 IST" duration-ms="7247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="verifyTitle()[pri:2, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:09 IST" name="verifyTitle" finished-at="2023-05-06T14:48:09 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:09 IST" name="teardown" finished-at="2023-05-06T14:48:09 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.VerifyHomePageTitle -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java -->
+    <test started-at="2023-05-06T14:48:09 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java" finished-at="2023-05-06T14:48:18 IST" duration-ms="8758">
+      <class name="org.KylieCosmetics.VerifyNavBarTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:09 IST" name="environmentTest" finished-at="2023-05-06T14:48:18 IST" duration-ms="8572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="setCookieConsent" finished-at="2023-05-06T14:48:18 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCookieConsent -->
+        <test-method signature="verifyNavBar()[pri:3, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="verifyNavBar" finished-at="2023-05-06T14:48:18 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavBar -->
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="teardown" finished-at="2023-05-06T14:48:18 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.VerifyNavBarTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java -->
+    <test started-at="2023-05-06T14:48:18 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java" finished-at="2023-05-06T14:48:27 IST" duration-ms="9510">
+      <class name="org.KylieCosmetics.SearchFunctionalityTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:18 IST" name="environmentTest" finished-at="2023-05-06T14:48:26 IST" duration-ms="8026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:26 IST" name="setCookieConsent" finished-at="2023-05-06T14:48:26 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCookieConsent -->
+        <test-method signature="verifySearch()[pri:3, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:26 IST" name="verifySearch" finished-at="2023-05-06T14:48:27 IST" duration-ms="1314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:27 IST" name="teardown" finished-at="2023-05-06T14:48:27 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.SearchFunctionalityTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java -->
+    <test started-at="2023-05-06T14:48:27 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/FunctionalityTest.java" finished-at="2023-05-06T14:49:22 IST" duration-ms="54367">
+      <class name="org.KylieCosmetics.FunctionalityTest">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:27 IST" name="environmentTest" finished-at="2023-05-06T14:48:35 IST" duration-ms="7619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- environmentTest -->
+        <test-method signature="CookieConsent()[pri:2, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:35 IST" name="CookieConsent" finished-at="2023-05-06T14:48:35 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookieConsent -->
+        <test-method signature="login()[pri:3, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:35 IST" name="login" finished-at="2023-05-06T14:48:48 IST" duration-ms="13190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="search()[pri:4, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:48 IST" name="search" finished-at="2023-05-06T14:49:00 IST" duration-ms="12024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="getProductDetails()[pri:5, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:00 IST" name="getProductDetails" finished-at="2023-05-06T14:49:04 IST" duration-ms="3289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductDetails -->
+        <test-method signature="addToWishlist()[pri:6, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:04 IST" name="addToWishlist" finished-at="2023-05-06T14:49:07 IST" duration-ms="3043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToWishlist -->
+        <test-method signature="checkWishList()[pri:7, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:07 IST" name="checkWishList" finished-at="2023-05-06T14:49:12 IST" duration-ms="4873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWishList -->
+        <test-method signature="productAddToCart()[pri:8, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:12 IST" name="productAddToCart" finished-at="2023-05-06T14:49:15 IST" duration-ms="3055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productAddToCart -->
+        <test-method signature="checkoutProduct()[pri:9, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:15 IST" name="checkoutProduct" finished-at="2023-05-06T14:49:22 IST" duration-ms="7010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProduct -->
+        <test-method signature="teardown()[pri:10, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:22 IST" name="teardown" finished-at="2023-05-06T14:49:22 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.FunctionalityTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/FunctionalityTest.java -->
+    <test started-at="2023-05-06T14:49:22 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SocialMediaLinksTest.java" finished-at="2023-05-06T14:49:49 IST" duration-ms="26581">
+      <class name="org.KylieCosmetics.SocialMediaLinksTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:22 IST" name="setup" finished-at="2023-05-06T14:49:30 IST" duration-ms="7603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:30 IST" name="CookieConsent" finished-at="2023-05-06T14:49:30 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookieConsent -->
+        <test-method signature="facebookTest()[pri:2, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:30 IST" name="facebookTest" finished-at="2023-05-06T14:49:38 IST" duration-ms="8259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookTest -->
+        <test-method signature="instagramTest()[pri:3, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:38 IST" name="instagramTest" finished-at="2023-05-06T14:49:43 IST" duration-ms="5093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagramTest -->
+        <test-method signature="twitterTest()[pri:4, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:43 IST" name="twitterTest" finished-at="2023-05-06T14:49:48 IST" duration-ms="5115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:48 IST" name="teardown" finished-at="2023-05-06T14:49:49 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.KylieCosmetics.SocialMediaLinksTest -->
+    </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SocialMediaLinksTest.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

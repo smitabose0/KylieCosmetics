@@ -1,0 +1,9 @@
+org/KylieCosmetics/SecurityTest.class
+org/KylieCosmetics/LoadTimeTest.class
+org/KylieCosmetics/FunctionalityTest.class
+org/KylieCosmetics/SearchFunctionalityTest.class
+org/KylieCosmetics/MobileResponsivenessTest.class
+org/KylieCosmetics/VerifyNavBarTest.class
+org/KylieCosmetics/VerifyHomePageTitle.class
+org/KylieCosmetics/SocialMediaLinksTest.class
+org/KylieCosmetics/CompatibilityTest.class
