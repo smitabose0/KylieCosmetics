@@ -2,208 +2,626 @@
 <testng-results ignored="0" total="38" passed="38" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-06T14:47:14 IST" name="All Test Suite" finished-at="2023-05-06T14:49:49 IST" duration-ms="154769">
+  <suite started-at="2023-05-08T02:49:13 IST" name="All Test Suite" finished-at="2023-05-08T02:51:48 IST" duration-ms="154779">
     <groups>
     </groups>
-    <test started-at="2023-05-06T14:47:14 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/CompatibilityTest.java" finished-at="2023-05-06T14:47:22 IST" duration-ms="8647">
+    <test started-at="2023-05-08T02:49:13 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/CompatibilityTest.java" finished-at="2023-05-08T02:49:24 IST" duration-ms="11130">
       <class name="org.KylieCosmetics.CompatibilityTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:14 IST" name="environmentTest" finished-at="2023-05-06T14:47:22 IST" duration-ms="7883" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:13 IST" name="environmentTest" finished-at="2023-05-08T02:49:24 IST" duration-ms="10468" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:22 IST" name="setCookieConsent" finished-at="2023-05-06T14:47:22 IST" duration-ms="441" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:24 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:24 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=CompatibilityTest.environmentTest()[pri:1, instance:org.KylieCosmetics.CompatibilityTest@5db250b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:24 IST" name="setCookieConsent" finished-at="2023-05-08T02:49:24 IST" duration-ms="349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setCookieConsent -->
-        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.CompatibilityTest@60704c]" started-at="2023-05-06T14:47:22 IST" name="teardown" finished-at="2023-05-06T14:47:22 IST" duration-ms="306" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:24 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:24 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setCookieConsent status=SUCCESS method=CompatibilityTest.setCookieConsent()[pri:2, instance:org.KylieCosmetics.CompatibilityTest@5db250b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:24 IST" name="teardown" finished-at="2023-05-08T02:49:24 IST" duration-ms="287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.CompatibilityTest@5db250b4]" started-at="2023-05-08T02:49:24 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=CompatibilityTest.teardown()[pri:3, instance:org.KylieCosmetics.CompatibilityTest@5db250b4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.CompatibilityTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/CompatibilityTest.java -->
-    <test started-at="2023-05-06T14:47:22 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SecurityTest.java" finished-at="2023-05-06T14:47:32 IST" duration-ms="9216">
+    <test started-at="2023-05-08T02:49:25 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SecurityTest.java" finished-at="2023-05-08T02:49:33 IST" duration-ms="8572">
       <class name="org.KylieCosmetics.SecurityTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:22 IST" name="environmentTest" finished-at="2023-05-06T14:47:31 IST" duration-ms="8966" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:25 IST" name="environmentTest" finished-at="2023-05-08T02:49:33 IST" duration-ms="8367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:31 IST" name="setCookieConsent" finished-at="2023-05-06T14:47:32 IST" duration-ms="89" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=SecurityTest.environmentTest()[pri:1, instance:org.KylieCosmetics.SecurityTest@3967e60c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="setCookieConsent" finished-at="2023-05-08T02:49:33 IST" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setCookieConsent -->
-        <test-method signature="testSSLCertificate()[pri:3, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:32 IST" name="testSSLCertificate" finished-at="2023-05-06T14:47:32 IST" duration-ms="49" status="PASS">
+        <test-method signature="testSSLCertificate()[pri:3, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="testSSLCertificate" finished-at="2023-05-08T02:49:33 IST" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSSLCertificate -->
-        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SecurityTest@12e61fe6]" started-at="2023-05-06T14:47:32 IST" name="teardown" finished-at="2023-05-06T14:47:32 IST" duration-ms="109" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setCookieConsent status=SUCCESS method=SecurityTest.setCookieConsent()[pri:2, instance:org.KylieCosmetics.SecurityTest@3967e60c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="teardown" finished-at="2023-05-08T02:49:33 IST" duration-ms="112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSSLCertificate status=SUCCESS method=SecurityTest.testSSLCertificate()[pri:3, instance:org.KylieCosmetics.SecurityTest@3967e60c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SecurityTest@3967e60c]" started-at="2023-05-08T02:49:33 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:33 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=SecurityTest.teardown()[pri:4, instance:org.KylieCosmetics.SecurityTest@3967e60c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.SecurityTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SecurityTest.java -->
-    <test started-at="2023-05-06T14:47:32 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/LoadTimeTest.java" finished-at="2023-05-06T14:47:42 IST" duration-ms="10373">
+    <test started-at="2023-05-08T02:49:33 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/LoadTimeTest.java" finished-at="2023-05-08T02:49:44 IST" duration-ms="11000">
       <class name="org.KylieCosmetics.LoadTimeTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:32 IST" name="environmentTest" finished-at="2023-05-06T14:47:39 IST" duration-ms="7642" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:33 IST" name="environmentTest" finished-at="2023-05-08T02:49:41 IST" duration-ms="8239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="websiteLoadTime()[pri:2, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:39 IST" name="websiteLoadTime" finished-at="2023-05-06T14:47:42 IST" duration-ms="2576" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:41 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=LoadTimeTest.environmentTest()[pri:1, instance:org.KylieCosmetics.LoadTimeTest@5cee5251] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="websiteLoadTime()[pri:2, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:41 IST" name="websiteLoadTime" finished-at="2023-05-08T02:49:44 IST" duration-ms="2647" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- websiteLoadTime -->
-        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.LoadTimeTest@5e316c74]" started-at="2023-05-06T14:47:42 IST" name="teardown" finished-at="2023-05-06T14:47:42 IST" duration-ms="151" status="PASS">
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:44 IST" name="teardown" finished-at="2023-05-08T02:49:44 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:44 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:44 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=websiteLoadTime status=SUCCESS method=LoadTimeTest.websiteLoadTime()[pri:2, instance:org.KylieCosmetics.LoadTimeTest@5cee5251] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.LoadTimeTest@5cee5251]" started-at="2023-05-08T02:49:44 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:44 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=LoadTimeTest.teardown()[pri:3, instance:org.KylieCosmetics.LoadTimeTest@5cee5251] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.LoadTimeTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/LoadTimeTest.java -->
-    <test started-at="2023-05-06T14:47:42 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java" finished-at="2023-05-06T14:48:02 IST" duration-ms="19756">
+    <test started-at="2023-05-08T02:49:44 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java" finished-at="2023-05-08T02:50:00 IST" duration-ms="15682">
       <class name="org.KylieCosmetics.MobileResponsivenessTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:42 IST" name="setUp" finished-at="2023-05-06T14:47:52 IST" duration-ms="9504" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:44 IST" name="setUp" finished-at="2023-05-08T02:49:54 IST" duration-ms="9567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:52 IST" name="CookieConsent" finished-at="2023-05-06T14:47:52 IST" duration-ms="70" status="PASS">
+        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:54 IST" name="CookieConsent" finished-at="2023-05-08T02:49:54 IST" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CookieConsent -->
-        <test-method signature="menuIcon()[pri:2, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:52 IST" name="menuIcon" finished-at="2023-05-06T14:47:54 IST" duration-ms="2162" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:54 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:54 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CookieConsent status=SUCCESS method=MobileResponsivenessTest.CookieConsent()[pri:1, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="menuIcon()[pri:2, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:54 IST" name="menuIcon" finished-at="2023-05-08T02:49:56 IST" duration-ms="2150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- menuIcon -->
-        <test-method signature="setLogin()[pri:3, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:47:54 IST" name="setLogin" finished-at="2023-05-06T14:48:02 IST" duration-ms="7903" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:56 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:49:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=menuIcon status=SUCCESS method=MobileResponsivenessTest.menuIcon()[pri:2, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="setLogin()[pri:3, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:49:56 IST" name="setLogin" finished-at="2023-05-08T02:50:00 IST" duration-ms="3765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@3aefe5e5]" started-at="2023-05-06T14:48:02 IST" name="tearDown" finished-at="2023-05-06T14:48:02 IST" duration-ms="114" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:50:00 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setLogin status=SUCCESS method=MobileResponsivenessTest.setLogin()[pri:3, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.KylieCosmetics.MobileResponsivenessTest@2f7c2f4f]" started-at="2023-05-08T02:50:00 IST" name="tearDown" finished-at="2023-05-08T02:50:00 IST" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.KylieCosmetics.MobileResponsivenessTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/MobileResponsivenessTest.java -->
-    <test started-at="2023-05-06T14:48:02 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java" finished-at="2023-05-06T14:48:09 IST" duration-ms="7362">
+    <test started-at="2023-05-08T02:50:00 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java" finished-at="2023-05-08T02:50:10 IST" duration-ms="10087">
       <class name="org.KylieCosmetics.VerifyHomePageTitle">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:02 IST" name="environmentTest" finished-at="2023-05-06T14:48:09 IST" duration-ms="7247" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:00 IST" name="environmentTest" finished-at="2023-05-08T02:50:10 IST" duration-ms="9953" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="verifyTitle()[pri:2, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:09 IST" name="verifyTitle" finished-at="2023-05-06T14:48:09 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:10 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=VerifyHomePageTitle.environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="verifyTitle()[pri:2, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:10 IST" name="verifyTitle" finished-at="2023-05-08T02:50:10 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.VerifyHomePageTitle@10e92f8f]" started-at="2023-05-06T14:48:09 IST" name="teardown" finished-at="2023-05-06T14:48:09 IST" duration-ms="110" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:10 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=VerifyHomePageTitle.verifyTitle()[pri:2, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="teardown()[pri:3, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:10 IST" name="teardown" finished-at="2023-05-08T02:50:10 IST" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee]" started-at="2023-05-08T02:50:10 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=VerifyHomePageTitle.teardown()[pri:3, instance:org.KylieCosmetics.VerifyHomePageTitle@5223e5ee] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.VerifyHomePageTitle -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyHomePageTitle.java -->
-    <test started-at="2023-05-06T14:48:09 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java" finished-at="2023-05-06T14:48:18 IST" duration-ms="8758">
+    <test started-at="2023-05-08T02:50:10 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java" finished-at="2023-05-08T02:50:19 IST" duration-ms="8642">
       <class name="org.KylieCosmetics.VerifyNavBarTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:09 IST" name="environmentTest" finished-at="2023-05-06T14:48:18 IST" duration-ms="8572" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:10 IST" name="environmentTest" finished-at="2023-05-08T02:50:18 IST" duration-ms="8361" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="setCookieConsent" finished-at="2023-05-06T14:48:18 IST" duration-ms="59" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=VerifyNavBarTest.environmentTest()[pri:1, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="setCookieConsent" finished-at="2023-05-08T02:50:18 IST" duration-ms="64" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setCookieConsent -->
-        <test-method signature="verifyNavBar()[pri:3, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="verifyNavBar" finished-at="2023-05-06T14:48:18 IST" duration-ms="15" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:18 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setCookieConsent status=SUCCESS method=VerifyNavBarTest.setCookieConsent()[pri:2, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="verifyNavBar()[pri:3, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="verifyNavBar" finished-at="2023-05-08T02:50:18 IST" duration-ms="77" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNavBar -->
-        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.VerifyNavBarTest@22a637e7]" started-at="2023-05-06T14:48:18 IST" name="teardown" finished-at="2023-05-06T14:48:18 IST" duration-ms="108" status="PASS">
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="teardown" finished-at="2023-05-08T02:50:19 IST" duration-ms="135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:18 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:18 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNavBar status=SUCCESS method=VerifyNavBarTest.verifyNavBar()[pri:3, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b]" started-at="2023-05-08T02:50:19 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:19 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=VerifyNavBarTest.teardown()[pri:4, instance:org.KylieCosmetics.VerifyNavBarTest@659a969b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.VerifyNavBarTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/VerifyNavBarTest.java -->
-    <test started-at="2023-05-06T14:48:18 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java" finished-at="2023-05-06T14:48:27 IST" duration-ms="9510">
+    <test started-at="2023-05-08T02:50:19 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java" finished-at="2023-05-08T02:50:28 IST" duration-ms="9588">
       <class name="org.KylieCosmetics.SearchFunctionalityTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:18 IST" name="environmentTest" finished-at="2023-05-06T14:48:26 IST" duration-ms="8026" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:19 IST" name="environmentTest" finished-at="2023-05-08T02:50:27 IST" duration-ms="7997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:26 IST" name="setCookieConsent" finished-at="2023-05-06T14:48:26 IST" duration-ms="61" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:27 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=SearchFunctionalityTest.environmentTest()[pri:1, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="setCookieConsent()[pri:2, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:27 IST" name="setCookieConsent" finished-at="2023-05-08T02:50:27 IST" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setCookieConsent -->
-        <test-method signature="verifySearch()[pri:3, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:26 IST" name="verifySearch" finished-at="2023-05-06T14:48:27 IST" duration-ms="1314" status="PASS">
+        <test-method signature="verifySearch()[pri:3, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:27 IST" name="verifySearch" finished-at="2023-05-08T02:50:28 IST" duration-ms="1431" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearch -->
-        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SearchFunctionalityTest@35047d03]" started-at="2023-05-06T14:48:27 IST" name="teardown" finished-at="2023-05-06T14:48:27 IST" duration-ms="107" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:27 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=setCookieConsent status=SUCCESS method=SearchFunctionalityTest.setCookieConsent()[pri:2, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="teardown()[pri:4, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:28 IST" name="teardown" finished-at="2023-05-08T02:50:28 IST" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:28 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySearch status=SUCCESS method=SearchFunctionalityTest.verifySearch()[pri:3, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13]" started-at="2023-05-08T02:50:28 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:28 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=SearchFunctionalityTest.teardown()[pri:4, instance:org.KylieCosmetics.SearchFunctionalityTest@4c9f8c13] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.SearchFunctionalityTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SearchFunctionalityTest.java -->
-    <test started-at="2023-05-06T14:48:27 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/FunctionalityTest.java" finished-at="2023-05-06T14:49:22 IST" duration-ms="54367">
+    <test started-at="2023-05-08T02:50:28 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/FunctionalityTest.java" finished-at="2023-05-08T02:51:22 IST" duration-ms="53715">
       <class name="org.KylieCosmetics.FunctionalityTest">
-        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:27 IST" name="environmentTest" finished-at="2023-05-06T14:48:35 IST" duration-ms="7619" status="PASS">
+        <test-method signature="environmentTest()[pri:1, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:28 IST" name="environmentTest" finished-at="2023-05-08T02:50:36 IST" duration-ms="7830" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- environmentTest -->
-        <test-method signature="CookieConsent()[pri:2, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:35 IST" name="CookieConsent" finished-at="2023-05-06T14:48:35 IST" duration-ms="81" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:36 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=environmentTest status=SUCCESS method=FunctionalityTest.environmentTest()[pri:1, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="CookieConsent()[pri:2, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:36 IST" name="CookieConsent" finished-at="2023-05-08T02:50:36 IST" duration-ms="40" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CookieConsent -->
-        <test-method signature="login()[pri:3, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:35 IST" name="login" finished-at="2023-05-06T14:48:48 IST" duration-ms="13190" status="PASS">
+        <test-method signature="login()[pri:3, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:36 IST" name="login" finished-at="2023-05-08T02:50:49 IST" duration-ms="12749" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="search()[pri:4, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:48:48 IST" name="search" finished-at="2023-05-06T14:49:00 IST" duration-ms="12024" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:36 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:36 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CookieConsent status=SUCCESS method=FunctionalityTest.CookieConsent()[pri:2, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:49 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:50:49 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=FunctionalityTest.login()[pri:3, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="search()[pri:4, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:50:49 IST" name="search" finished-at="2023-05-08T02:51:02 IST" duration-ms="12764" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="getProductDetails()[pri:5, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:00 IST" name="getProductDetails" finished-at="2023-05-06T14:49:04 IST" duration-ms="3289" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:02 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:02 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=search status=SUCCESS method=FunctionalityTest.search()[pri:4, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="getProductDetails()[pri:5, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:02 IST" name="getProductDetails" finished-at="2023-05-08T02:51:04 IST" duration-ms="2342" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getProductDetails -->
-        <test-method signature="addToWishlist()[pri:6, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:04 IST" name="addToWishlist" finished-at="2023-05-06T14:49:07 IST" duration-ms="3043" status="PASS">
+        <test-method signature="addToWishlist()[pri:6, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:04 IST" name="addToWishlist" finished-at="2023-05-08T02:51:07 IST" duration-ms="3034" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToWishlist -->
-        <test-method signature="checkWishList()[pri:7, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:07 IST" name="checkWishList" finished-at="2023-05-06T14:49:12 IST" duration-ms="4873" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:04 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:04 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getProductDetails status=SUCCESS method=FunctionalityTest.getProductDetails()[pri:5, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:07 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:07 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addToWishlist status=SUCCESS method=FunctionalityTest.addToWishlist()[pri:6, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="checkWishList()[pri:7, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:07 IST" name="checkWishList" finished-at="2023-05-08T02:51:12 IST" duration-ms="4815" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkWishList -->
-        <test-method signature="productAddToCart()[pri:8, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:12 IST" name="productAddToCart" finished-at="2023-05-06T14:49:15 IST" duration-ms="3055" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:12 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkWishList status=SUCCESS method=FunctionalityTest.checkWishList()[pri:7, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="productAddToCart()[pri:8, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:12 IST" name="productAddToCart" finished-at="2023-05-08T02:51:15 IST" duration-ms="3071" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productAddToCart -->
-        <test-method signature="checkoutProduct()[pri:9, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:15 IST" name="checkoutProduct" finished-at="2023-05-06T14:49:22 IST" duration-ms="7010" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:15 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productAddToCart status=SUCCESS method=FunctionalityTest.productAddToCart()[pri:8, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="checkoutProduct()[pri:9, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:15 IST" name="checkoutProduct" finished-at="2023-05-08T02:51:22 IST" duration-ms="6887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkoutProduct -->
-        <test-method signature="teardown()[pri:10, instance:org.KylieCosmetics.FunctionalityTest@4b5d6a01]" started-at="2023-05-06T14:49:22 IST" name="teardown" finished-at="2023-05-06T14:49:22 IST" duration-ms="170" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:22 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:22 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkoutProduct status=SUCCESS method=FunctionalityTest.checkoutProduct()[pri:9, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="teardown()[pri:10, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:22 IST" name="teardown" finished-at="2023-05-08T02:51:22 IST" duration-ms="163" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.FunctionalityTest@418e7838]" started-at="2023-05-08T02:51:22 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:22 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=teardown status=SUCCESS method=FunctionalityTest.teardown()[pri:10, instance:org.KylieCosmetics.FunctionalityTest@418e7838] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
       </class> <!-- org.KylieCosmetics.FunctionalityTest -->
     </test> <!-- /Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/FunctionalityTest.java -->
-    <test started-at="2023-05-06T14:49:22 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SocialMediaLinksTest.java" finished-at="2023-05-06T14:49:49 IST" duration-ms="26581">
+    <test started-at="2023-05-08T02:51:22 IST" name="/Users/smitabose/IdeaProjects/KylieCosmetics_GP/src/test/java/org/KylieCosmetics/SocialMediaLinksTest.java" finished-at="2023-05-08T02:51:48 IST" duration-ms="26285">
       <class name="org.KylieCosmetics.SocialMediaLinksTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:22 IST" name="setup" finished-at="2023-05-06T14:49:30 IST" duration-ms="7603" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:22 IST" name="setup" finished-at="2023-05-08T02:51:30 IST" duration-ms="7690" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:30 IST" name="CookieConsent" finished-at="2023-05-06T14:49:30 IST" duration-ms="281" status="PASS">
+        <test-method signature="CookieConsent()[pri:1, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:30 IST" name="CookieConsent" finished-at="2023-05-08T02:51:30 IST" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CookieConsent -->
-        <test-method signature="facebookTest()[pri:2, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:30 IST" name="facebookTest" finished-at="2023-05-06T14:49:38 IST" duration-ms="8259" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:30 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:30 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CookieConsent status=SUCCESS method=SocialMediaLinksTest.CookieConsent()[pri:1, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="facebookTest()[pri:2, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:30 IST" name="facebookTest" finished-at="2023-05-08T02:51:38 IST" duration-ms="8144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- facebookTest -->
-        <test-method signature="instagramTest()[pri:3, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:38 IST" name="instagramTest" finished-at="2023-05-06T14:49:43 IST" duration-ms="5093" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:38 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=facebookTest status=SUCCESS method=SocialMediaLinksTest.facebookTest()[pri:2, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="instagramTest()[pri:3, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:38 IST" name="instagramTest" finished-at="2023-05-08T02:51:43 IST" duration-ms="5087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instagramTest -->
-        <test-method signature="twitterTest()[pri:4, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:43 IST" name="twitterTest" finished-at="2023-05-06T14:49:48 IST" duration-ms="5115" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:43 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:43 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=instagramTest status=SUCCESS method=SocialMediaLinksTest.instagramTest()[pri:3, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method signature="twitterTest()[pri:4, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:43 IST" name="twitterTest" finished-at="2023-05-08T02:51:48 IST" duration-ms="5093" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- twitterTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@63021689]" started-at="2023-05-06T14:49:48 IST" name="teardown" finished-at="2023-05-06T14:49:49 IST" duration-ms="220" status="PASS">
+        <test-method is-config="true" signature="takeScreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:48 IST" name="takeScreenshotOnFailure" finished-at="2023-05-08T02:51:48 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=twitterTest status=SUCCESS method=SocialMediaLinksTest.twitterTest()[pri:4, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenshotOnFailure -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.KylieCosmetics.SocialMediaLinksTest@1622f1b]" started-at="2023-05-08T02:51:48 IST" name="teardown" finished-at="2023-05-08T02:51:48 IST" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
