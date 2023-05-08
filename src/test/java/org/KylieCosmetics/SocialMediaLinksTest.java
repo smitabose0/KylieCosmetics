@@ -38,7 +38,7 @@ public class SocialMediaLinksTest
     @Test(priority = 2)
     public void facebookTest() throws InterruptedException
     {
-        js.executeScript("window.scrollTo(0,5500)");
+        js.executeScript("window.scrollTo(0,6000)");
         Thread.sleep(3000);
 
         //driver.findElement(By.xpath("//div[@class='social-icon']/a[@arial-label='Facebook']")).click(); //img[@alt='Facebook']
